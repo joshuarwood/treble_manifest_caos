@@ -5,21 +5,21 @@
 <project path="vendor/hardware_overlay" name="vendor_hardware_overlay" remote="phh" revision="c46b7c7c195423e4e89bc30a21331f5bff99c16f" /><!--date 2022-03-21-->
 
 <project path="device/phh/treble" name="device_phh_treble" remote="phh" revision="e549a2827328e1b612b669927259bc97f0a3ba85" /><!--date 2021-12-03-->
-<project path="vendor/vndk-tests" name="vendor_vndk-tests" remote="phh" revision="master" /><!--date 20-->
-<project path="vendor/interfaces" name="vendor_interfaces" remote="phh" revision="android-11.0" /><!--date 20-->
-<project path="vendor/magisk" name="vendor_magisk" remote="phh" revision="android-10.0" /><!--date 20-->
+<project path="vendor/vndk-tests" name="vendor_vndk-tests" remote="phh" revision="5531c9f077f391ba1c9ea9652a172a86d2f6e34b" /><!--date 2020-10-29->
+<project path="vendor/interfaces" name="vendor_interfaces" remote="phh" revision="b4e53fee3e4feff2222f56a280a157e10c5c1bf7" /><!--date 2021-08-08-->
+<project path="vendor/magisk" name="vendor_magisk" remote="phh" revision="d8056f8032a0f60f365ddfe5e9fccd7eaf3a655d" /><!--date 2021-02-22-->
 
 <!-- exfat support -->
 <remote name="relan" fetch="https://github.com/relan/" />
-<project path="external/exfat" name="exfat" remote="relan" revision="master" /><!--date 20-->
+<project path="external/exfat" name="exfat" remote="relan" revision="11e4f032d1782a606e3b004c89990a72cadf91bf" /><!--date 2021-11-16-->
 
 
 <!-- additional utils -->
 <remote name="los" fetch="https://github.com/LineageOS" />
-<project path="external/ntfs-3g" name="android_external_ntfs-3g" remote="los" revision="lineage-18.1" /><!--date 20-->
-<project path="external/p7zip" name="android_external_p7zip" remote="los" revision="lineage-18.1" /><!--date 20-->
-<project path="packages/apps/ExactCalculator" name="android_packages_apps_ExactCalculator" remote="los" revision="lineage-18.1" /><!--date 20-->
-<project path="packages/apps/Seedvault" name="android_packages_apps_Seedvault" remote="los" revision="lineage-18.1" /><!--date 20-->
+<project path="external/ntfs-3g" name="android_external_ntfs-3g" remote="los" revision="5ce8941bf47291cd6ffe7cdb1797253f1cc3a86f" /><!--date 2021-11-05-->
+<project path="external/p7zip" name="android_external_p7zip" remote="los" revision="6f674e41e9e243e24e8e334f0db15a325a03b35a" /><!--date 2020-03-07-->
+<project path="packages/apps/ExactCalculator" name="android_packages_apps_ExactCalculator" remote="los" revision="9bebe5c8d09759725990b56caa7d7efe8eba349f" /><!--date 2022-02-12-->
+<project path="packages/apps/Seedvault" name="android_packages_apps_Seedvault" remote="los" revision="68dc4f16bc0c383bec3b101b6a33606f3196acb4" /><!--date 2021-10-18-->
 
 <remote name="caos" fetch="https://github.com/eremitein/" />
 <project path="external/jura-fonts" name="external_jura-fonts_caos" remote="caos" revision="master" />
@@ -44,7 +44,7 @@
 <project path="packages/apps/FOSSBrowser" name="packages_apps_FOSSBrowser_caos" remote="caos" revision="master" />
 <project path="external/libbfqio" name="external_libbfqio_caos" remote="caos" revision="master" />
 <remote name="notmyst33d" fetch="https://github.com/notmyst33d/" />
-<project path="external/aptx" name="libaptX" remote="notmyst33d" revision="main" /><!--date 20-->
+<project path="external/aptx" name="libaptX" remote="notmyst33d" revision="40d5e40627ab731d53f12f1da06af87625404f4b" /><!--date 2021-09-02-->
 <!--
 <project path="packages/apps/me.phh.superuser" name="packages_apps_Superuser_caos" remote="caos" revision="master" />
 -->
