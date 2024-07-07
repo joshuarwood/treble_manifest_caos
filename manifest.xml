@@ -4,14 +4,14 @@
 
 <project path="vendor/hardware_overlay" name="vendor_hardware_overlay" remote="phh" revision="c46b7c7c195423e4e89bc30a21331f5bff99c16f" /><!--date 2022-03-21-->
 
-<project path="device/phh/treble" name="device_phh_treble" remote="phh" revision="e549a2827328e1b612b669927259bc97f0a3ba85" /><!--date 2021-12-03-->
-<project path="vendor/vndk-tests" name="vendor_vndk-tests" remote="phh" revision="5531c9f077f391ba1c9ea9652a172a86d2f6e34b" /><!--date 2020-10-29->
-<project path="vendor/interfaces" name="vendor_interfaces" remote="phh" revision="b4e53fee3e4feff2222f56a280a157e10c5c1bf7" /><!--date 2021-08-08-->
-<project path="vendor/magisk" name="vendor_magisk" remote="phh" revision="d8056f8032a0f60f365ddfe5e9fccd7eaf3a655d" /><!--date 2021-02-22-->
+<project path="device/phh/treble" name="device_phh_treble" remote="phh" revision="e549a2827328e1b612b669927259bc97f0a3ba85" /><!--date 2021-12-03 -->
+<project path="vendor/vndk-tests" name="vendor_vndk-tests" remote="phh" revision="5531c9f077f391ba1c9ea9652a172a86d2f6e34b" /><!--date 2020-10-29 -->
+<project path="vendor/interfaces" name="vendor_interfaces" remote="phh" revision="b4e53fee3e4feff2222f56a280a157e10c5c1bf7" /><!--date 2021-08-08 -->
+<project path="vendor/magisk" name="vendor_magisk" remote="phh" revision="d8056f8032a0f60f365ddfe5e9fccd7eaf3a655d" /><!--date 2021-02-22 -->
 
 <!-- exfat support -->
 <remote name="relan" fetch="https://github.com/relan/" />
-<project path="external/exfat" name="exfat" remote="relan" revision="11e4f032d1782a606e3b004c89990a72cadf91bf" /><!--date 2021-11-16-->
+<project path="external/exfat" name="exfat" remote="relan" revision="11e4f032d1782a606e3b004c89990a72cadf91bf" /><!--date 2021-11-16 -->
 
 
 <!-- additional utils -->
